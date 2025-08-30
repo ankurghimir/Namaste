@@ -637,12 +637,16 @@ label {
 }
 
 .header-style-two {
-    position: relative;
+    position: absolute;
+    width: 100%;
 }
 
 .header-style-two .menu-area {
-    background: #071a35;
     padding: 8px 0;
+}
+
+.sticky-menu {
+    background: #071a35;
 }
 
 .header-style-two .navbar-wrap>ul {
