@@ -297,7 +297,7 @@ label {
     font-size: 16px;
     border-radius: 50%;
     z-index: 99;
-    color: #171d22;
+    color: #091935;
     text-align: center;
     cursor: pointer;
     transition: 1s ease;
@@ -323,7 +323,7 @@ label {
 }
 
 .scroll-top:hover {
-    background: #171d22;
+    background: #091935;
     color: #fff;
 }
 
@@ -535,7 +535,7 @@ label {
     top: 0;
     width: 100%;
     z-index: 99;
-    background: #171d22;
+    background: #091935;
     -webkit-animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     -webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
@@ -823,7 +823,7 @@ label {
     -o-transition: all 700ms ease;
     opacity: 0;
     visibility: hidden;
-    background: #171d22;
+    background: #091935;
 }
 
 .mobile-menu-visible .menu-backdrop {
@@ -840,7 +840,7 @@ label {
     max-height: 100%;
     overflow-y: auto;
     overflow-x: hidden;
-    background: #171d22;
+    background: #091935;
     padding: 0px 0px;
     z-index: 5;
     box-shadow: -9px 0 14px 0px rgb(0 0 0 / 6%);
@@ -1584,7 +1584,7 @@ label {
     align-items: center;
     padding-bottom: 25px;
     margin-bottom: 25px;
-    border-bottom: 1px dashed #38373c;
+    border-bottom: 1px dashed #ffffff;
 }
 
 .services-list ul li .icon {
@@ -1969,7 +1969,7 @@ label {
 
 .pagination-wrap ul li.active a,
 .pagination-wrap ul li a:hover {
-    color: #171d22;
+    color: #091935;
     border-color: #f01217;
     background: #f01217;
 }
@@ -3369,7 +3369,7 @@ label {
 }
 
 #preloader {
-    background-color: #171D22;
+    background-color: #091935;
     height: 100%;
     width: 100%;
     position: fixed;
