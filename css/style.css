@@ -2077,6 +2077,7 @@ label {
 
 .movie-details-img img {
     border-radius: 5px;
+    margin-top: -240px;
 }
 
 .movie-details-content {
@@ -3402,12 +3403,10 @@ label {
 }
 
 .movie-details-head {
-    padding: 503px 0 120px;
+    padding: 503px 0 0;
 }
 
-.details-row {
-    margin-top: -273px;
-}
+.details-row {}
 
 .artist-title {
     color: #ffffff;
