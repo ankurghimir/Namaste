@@ -2493,7 +2493,7 @@ label {
 }
 
 .blog-post-item {
-    background: #1f1e24;
+    background: #091935;
     box-shadow: 0px 1px 7px 0px rgba(0, 0, 0, 0.46);
     margin-bottom: 50px;
 }
@@ -2551,7 +2551,7 @@ label {
     top: 0;
     width: 100%;
     height: 2px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(157, 157, 157);
     box-shadow: 0px 1px 3px 0px rgba(102, 102, 102, 0.46);
 }
 
@@ -2600,10 +2600,12 @@ label {
 
 .blog-sidebar {
     margin-left: 30px;
+    position: sticky;
+    top: 80px;
 }
 
 .blog-widget {
-    background: #1f1e24;
+    background: #091935;
     border-radius: 4px;
     box-shadow: 0px 1px 7px 0px rgba(0, 0, 0, 0.46);
     padding: 40px 30px;
@@ -3118,9 +3120,8 @@ label {
 .contact-form textarea {
     width: 100%;
     border: 1px solid #1f1e24;
-    background: #1f1e24;
     border-radius: 4px;
-    color: #bcbcbc;
+    color: #333333;
     box-shadow: 0px 1px 7px 0px rgba(0, 0, 0, 0.46);
     font-weight: 500;
     padding: 14px 25px;
@@ -3144,7 +3145,6 @@ label {
 }
 
 .contact-info-wrap {
-    background: #1f1e24;
     padding: 40px 34px 60px;
     box-shadow: 0px 1px 7px 0px rgba(0, 0, 0, 0.46);
 }
