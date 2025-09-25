@@ -1348,7 +1348,7 @@ label {
 }
 
 .card-title a:hover {
-    color: #071a35;
+    color: #f01117;
 }
 
 .release {
@@ -3522,4 +3522,13 @@ label {
     border-bottom: 0px !important;
     border-radius: 5px;
     margin-bottom: 10px;
+}
+
+.state-wise-link {
+    padding: 20px;
+    background: #a70e12;
+}
+
+.state-wise-link h3 {
+    font-size: 38px;
 }
